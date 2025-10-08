@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello
+Name: Tim
+Fullname: Theerapas Apinankul
+Linkedin : https://www.linkedin.com/in/theerapas-apinankul/
+![KozaGIF](https://github.com/user-attachments/assets/abce5913-5a2b-42dc-b564-c4707e6794ac)
 
 <!--
 **theerapas/theerapas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
