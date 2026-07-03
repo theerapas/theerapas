@@ -21,61 +21,47 @@ I like learning by building. If a project forces me to read papers, debug weird 
 
 ---
 
-## Pinned projects
+## Pinned Projects
 
-### `thinc-org/cugetreg`
+### `CU Get Reg`
+**Project Manager**
 
-I worked as the **Project Manager** for **CU Get Reg v2**, a course planning platform built to make registration planning easier for students.
+Built the next generation of CU Get Reg to make course planning easier for students.
 
-The goal is simple: help students explore courses, plan schedules, and make registration decisions with less stress.
+---
 
 ### `WIPO`
+**NUS Summer Workshop 2025 First Prize**
 
-**WIPO** stands for **Warehouse Item Placement Optimization**.
+Graph-based warehouse optimization using demand patterns and item relationships.
 
-This was a group project I led during the **NUS Summer Workshop 2025** at the National University of Singapore School of Computing. Our team won **First Prize**.
-
-The project asks a practical question:
-
-`Can we reduce warehouse walking distance and worker effort by placing items more intelligently?`
-
-We modeled the warehouse as a graph and used historical demand, item popularity, item weight, and co-occurrence patterns to decide where each item should be stored.
-
-I liked this project because it turned a very everyday problem, walking around a warehouse, into a computational thinking problem with graphs, heuristics, constraints, and measurable impact.
+---
 
 ### `TimAggregators`
+**Research Project**
 
-**TimAggregators** is a passion project I worked on with guidance from my university professor.
+Reproduced a drug aggregation paper, then explored how far I could improve it through ablation studies.
 
-The project focuses on predicting **drug-excipient co-aggregation** and screening possible nanoparticle candidates. I reproduced a research-inspired pipeline, then ran ablation studies on imbalance handling, molecular representations, and model families.
+---
 
-This project was especially fun because it felt like a real research workflow: reproduce, question, ablate, compare, and improve.
+### `ASPINE`
+**iGEM 2024 Silver Award**
 
-### `Aspine_IGEM`
+Prepared bioinformatics datasets for an ML model predicting gene expression from DNA sequences.
 
-This repository was cloned from our iGEM GitLab project.
-
-I participated in the **2024 International Genetically Engineered Machine Competition**, where our team earned the **Silver Award** for developing **ASPINE**, a machine learning model designed to predict gene expression from DNA sequences.
-
-My main contribution was on the data side. I worked on preparing and analyzing data for model training and evaluation, using bioinformatics tools, Linux, and Pandas to process large-scale datasets and build reliable data pipelines.
-
-This project was one of my first experiences seeing how biology, data, and machine learning can come together in a real competition environment.
+---
 
 ### `DNAFactory`
+**Java Game**
 
-**DNA Factory** is a grid-based factory automation game built in **Java** with **JavaFX** for my Programming Methodology coursework.
+A factory automation game where you build life from nucleotides.
 
-The idea is to turn synthetic biology into a playful engineering challenge. You play as a scientist building lifeforms from scratch using nucleotides, genes, proteins, organs, and traits.
-
-It is part factory automation, part puzzle system, and part biology-inspired sandbox.
+---
 
 ### `Rosaloid`
+**Protein Engineering**
 
-**Rosaloid** is a protein optimization project built for my Bioinformatics coursework.
-
-It is a Bayesian Optimization pipeline for protein sequence engineering using **ESM-2 protein language model embeddings** and **NGBoost** to explore protein fitness landscapes more efficiently.
-
-The result was not so good, but it was fun lol. (The repo is still very unreadable).
+Bayesian Optimization + ESM-2 for protein sequence optimization. The results weren't spectacular, but the journey was.
 
 ---
 
