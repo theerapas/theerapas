@@ -2,22 +2,11 @@
 
 I'm **Theerapas Apinankul**.
 
-I like building things that sit somewhere between **automation, science, and new technology**. Some projects here are practical tools that make workflows easier. Some are experiments in computational biology or machine learning. Some are just fun ideas that I wanted to turn into something real.
+I like building things that sit somewhere between **automation, science, and (whatever) new technology**. Some projects here are practical tools that make workflows easier. Some are experiments in computational biology or machine learning. Some are just fun ideas that I wanted to turn into something real.
 
 **LinkedIn:** https://www.linkedin.com/in/theerapas-apinankul/
 
 **Resume (2025):** https://drive.google.com/file/d/1sjOqiPJu4cTZ_4zh6C4HF_o9OZp52dqT/view?usp=sharing
-
----
-
-## What I like working on
-
-| What | I like | Working on |
-|---|---|---|
-| Automation (love it) | Optimization (love it) | Machine Learning (still learning) |
-| Bioinformatics (like it) | Computational Biology (i tried) | New Tech (fun) |
-
-I like learning by building. If a project forces me to read papers, debug weird data, understand a new model, or design a cleaner workflow, that is usually a good sign (I guess).
 
 ---
 
