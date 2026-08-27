@@ -6,7 +6,7 @@ I like building things that sit somewhere between **automation, science, and (wh
 
 **LinkedIn:** https://www.linkedin.com/in/theerapas-apinankul/
 
-**Resume (2025):** https://drive.google.com/file/d/1sjOqiPJu4cTZ_4zh6C4HF_o9OZp52dqT/view?usp=sharing
+**Resume (2026/08):** https://drive.google.com/file/d/1aleS5sK61sQgv2XMW85g5t_mfCLvg1As/view?usp=sharing
 
 ---
 
